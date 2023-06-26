@@ -1,4 +1,4 @@
-NETFLIX_COLNE
+NETFLIX_COLNE-:
 This is simple netflix clone created using HTML,CSS abd JS.
 image(1)
  ![Screenshot (18)](https://github.com/Preetirathaur/Netflix_clone/assets/123716002/757f13b1-768b-402d-9247-05df18e64991)
